@@ -22,7 +22,7 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "NARUTO-NINJA",\n     "author": "SANTIYT64⁩",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "NARUTO-NINJA",\n     "author": "SANTIYT64",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ LENTO... ฅ^•ﻌ•^ฅ*'
 global.botname = '✯ NARUTO - NINJA ✰'
 global.textbot = `NARUTO - NINJA - NEXT`
@@ -31,8 +31,8 @@ global.namechannel = '【 ✯ NARUTO - NINJA - NEXT GENERATIONS ✰ 】'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.catalogo = fs.readFileSync('./storage/img/NARUTO.jpg')
-global.miniurl = fs.readFileSync('./storage/img/MINIATURA.jpg')
+global.catalogo = fs.readFileSync('./storage/img/catalogo.jpg')
+global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
